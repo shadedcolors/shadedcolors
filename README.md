@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shadedcolors
+- 👀 I’m interested in ... Music, Coding, Improving myself, Video Games, and Socializing
+- 🌱 I’m currently learning ... C#, PHP, SQL, and Singing
+- 📫 How to reach me ... allarounduseful@gmail.com
